@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head>
+  <title>Emily Dayley</title>
+  <link href='https://fonts.googleapis.com/css?family=Raleway:300,800' rel='stylesheet' type='text/css'>
+  <link href="./style.css" rel='stylesheet' type='text/css'>
+
+</head>
+<html>
+  <body>
+    <div class="container">
+    <h1>Emily Dayley</h1>
+      <div class="hero">
+          <div class="hero-content">
+            <div>
+              <h2>About Me</h2>
+                <p>I play trombone in the Jerome High School Varsity band, Marching band, and Pep Band. I am an alto in choir. I enjoy doing musicals. I have six brothers, 3 are step, 2 are half, and one is biological.</p>
+            </div>
+            <div>
+              <h2>Work and Education</h2>
+                <p>I am a freshman at the high school. I want to go to college and become a kids counselor.</p>
+            </div>
+            <div>
+              <h2>Goals</h2>
+                <p>My goals are normally small so that I can reach them and then I add more to them. My goals right now are to graduate high school, go to all-state for choir, and to go to district 4 honor band for well band.
+            </div>
+          </div>
+      </div>
+  </body>
+</html>
